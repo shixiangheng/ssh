@@ -1,0 +1,34 @@
+
+#include <iostream>
+//[xiangheng@csil lab00]$
+//sdweqe[xiangheng@csil lab00]$
+using namespace std;
+
+int main()
+{//sqssssswed
+  char letter='l';
+  string letters="letters";
+  int number;
+  cout<<letter<<"\n";
+  cout<<letters<<"\n";
+  cout<<"enter a number\n";
+  cin>>number;
+  // if (number>=50)
+  // {cout<<"Too Big!\n";
+  // }
+  if (number>100&&number==100)
+    {cout<<"BBBBBBBig!\n";
+    }
+  else
+    {cout<<"too small\n";
+    }
+
+
+
+
+
+
+
+
+  return 0;
+}
